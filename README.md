@@ -1,5 +1,5 @@
 # [LAT parent](http://julianmendez.github.io/lat-parent/)
-*LAT parent*
+*LAT parent project*
 
 
 The POM file of this project is used as parent of project parent POM files.
