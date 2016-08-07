@@ -2,7 +2,7 @@
 *LAT parent*
 
 
-This POM is used as parent of project parent POMs.
+The POM file of this project is used as parent of project parent POM files.
 
 
 ## Download
