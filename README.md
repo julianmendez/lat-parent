@@ -1,5 +1,8 @@
-# [LAT parent](http://julianmendez.github.io/lat-parent/)
+# [LAT parent](https://julianmendez.github.io/lat-parent/)
 *LAT parent project*
+
+[![Build Status](https://travis-ci.org/julianmendez/lat-parent.png?branch=master)](https://travis-ci.org/julianmendez/lat-parent)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat.lat-parent/lat-parent-parent/badge.svg)](http://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat.lat-parent%22)
 
 
 The POM file of this project is used as parent of project parent POM files.
