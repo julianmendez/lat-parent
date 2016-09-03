@@ -1,0 +1,9 @@
+target/
+.settings/
+.gradle/
+.project
+.classpath
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
