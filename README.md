@@ -11,13 +11,14 @@ The POM file of this project is used as parent of project parent POM files.
 ## Download
 
 * [The Central Repository](https://repo1.maven.org/maven2/de/tu-dresden/inf/lat/lat-parent/)
-* as dependency
+* as parent
 ```xml
-<dependency>
+<parent>
   <groupId>de.tu-dresden.inf.lat</groupId>
   <artifactId>lat-parent</artifactId>
   <version>0.1.1</version>
-</dependency>
+  <relativePath></relativePath>
+</parent>
 ```
 
 
