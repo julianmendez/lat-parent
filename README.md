@@ -16,7 +16,7 @@ The POM file of this project is used as parent of project parent POM files.
 <dependency>
   <groupId>de.tu-dresden.inf.lat</groupId>
   <artifactId>lat-parent</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
 </dependency>
 ```
 
