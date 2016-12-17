@@ -12,6 +12,7 @@ The POM file of this project is used as parent of project parent POM files.
 
 * [The Central Repository](https://repo1.maven.org/maven2/de/tu-dresden/inf/lat/lat-parent/)
 * as parent
+
 ```xml
 <parent>
   <groupId>de.tu-dresden.inf.lat</groupId>
@@ -31,19 +32,24 @@ $ git clone https://github.com/julianmendez/lat-parent.git
 ```
 
 The bundles uploaded to [Sonatype](https://oss.sonatype.org/) are created with:
+
 ```
 $ mvn clean install -DperformRelease=true
 ```
+
 and then:
+
 ```
 $ cd target
 $ jar -cf bundle.jar lat-parent-*
 ```
 
 The version number is updated with:
+
 ```
 $ mvn versions:set -DnewVersion=NEW_VERSION
 ```
+
 where *NEW_VERSION* is the new version.
 
 
