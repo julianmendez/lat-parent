@@ -2,7 +2,7 @@
 *LAT parent project*
 
 [![Build Status](https://travis-ci.org/julianmendez/lat-parent.png?branch=master)](https://travis-ci.org/julianmendez/lat-parent)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat/lat-parent/badge.svg)](http://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat%22)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat/lat-parent/badge.svg)](https://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat%22)
 
 
 The POM file of this project is used as parent of project parent POM files.
@@ -55,7 +55,7 @@ where *NEW_VERSION* is the new version.
 
 ## License
 
-This software is distributed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt).
+This software is distributed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 
 ## Contact
