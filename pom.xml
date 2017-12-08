@@ -21,7 +21,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>
-					<version>3.6.0</version>
+					<version>3.7.0</version>
 				</plugin>
 
 				<plugin>
@@ -50,7 +50,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-javadoc-plugin</artifactId>
-					<version>3.0.0-M1</version>
+					<version>3.0.0</version>
 					<configuration>
 						<archive>
 							<manifest>
@@ -89,7 +89,7 @@
 				<plugin>
 					<groupId>org.codehaus.mojo</groupId>
 					<artifactId>exec-maven-plugin</artifactId>
-					<version>1.5.0</version>
+					<version>1.6.0</version>
 					<configuration>
 						<executable>java</executable>
 						<mainClass>${mainClass}</mainClass>
@@ -99,13 +99,13 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-assembly-plugin</artifactId>
-					<version>3.0.0</version>
+					<version>3.1.0</version>
 				</plugin>
 
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-resources-plugin</artifactId>
-					<version>3.0.1</version>
+					<version>3.0.2</version>
 				</plugin>
 
 				<plugin>
@@ -117,7 +117,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-shade-plugin</artifactId>
-					<version>2.4.3</version>
+					<version>3.1.0</version>
 				</plugin>
 
 				<plugin>
