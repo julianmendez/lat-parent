@@ -7,7 +7,7 @@
 
 
 
-The POM file of this project is used as parent of project parent POM files.
+The POM file of this project is used as parent of other project parent POM files.
 
 
 ## Download
