@@ -19,7 +19,7 @@ The POM file of this project is used as parent of other project parent POM files
 <parent>
   <groupId>de.tu-dresden.inf.lat</groupId>
   <artifactId>lat-parent</artifactId>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
   <relativePath></relativePath>
 </parent>
 ```
@@ -68,4 +68,5 @@ This software is distributed under the [Apache License Version 2.0](https://www.
 ## Contact
 
 In case you need more information, please contact @julianmendez .
+
 
