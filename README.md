@@ -5,8 +5,6 @@
 [![maven central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat/lat-parent/badge.svg)](https://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat%22)
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-
-
 The POM file of this project is used as parent of other project parent POM files.
 
 
