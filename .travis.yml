@@ -4,17 +4,23 @@
 # https://travis-ci.org/
 #
 
+---
+
 language: java
 
+os: linux
+
+dist: bionic
+
 scala:
-  - 2.13.1
+  - 2.13.3
 
 jdk:
   - openjdk11
-  - openjdk13
+  - openjdk14
   - openjdk15
   - oraclejdk11
-  - oraclejdk13
+  - oraclejdk14
   - oraclejdk15
 
 install:
@@ -22,7 +28,5 @@ install:
 
 after_success:
   - mvn clean cobertura:cobertura coveralls:report
-
-sudo: false
 
 
