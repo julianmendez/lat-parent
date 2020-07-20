@@ -8,7 +8,7 @@
 	<groupId>de.tu-dresden.inf.lat</groupId>
 	<artifactId>lat-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>0.1.4</version>
+	<version>0.1.5</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -128,7 +128,7 @@
 				<plugin>
 					<groupId>org.apache.felix</groupId>
 					<artifactId>maven-bundle-plugin</artifactId>
-					<version>4.1.0</version>
+					<version>5.1.1</version>
 				</plugin>
 
 				<plugin>
