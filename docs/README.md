@@ -1,7 +1,7 @@
 # [LAT parent](https://julianmendez.github.io/lat-parent/)
 *LAT parent project*
 
-[![build](https://travis-ci.org/julianmendez/lat-parent.png?branch=master)](https://travis-ci.org/julianmendez/lat-parent)
+[![build](https://github.com/julianmendez/lat-parent/workflows/Java%20CI/badge.svg)](https://github.com/julianmendez/lat-parent/actions)
 [![maven central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat/lat-parent/badge.svg)](https://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat%22)
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
