@@ -17,7 +17,7 @@ The POM file of this project is used as parent of other project parent POM files
 <parent>
   <groupId>de.tu-dresden.inf.lat</groupId>
   <artifactId>lat-parent</artifactId>
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <relativePath></relativePath>
 </parent>
 ```
