@@ -55,7 +55,7 @@ where *NEW_VERSION* is the new version.
 
 ## Author
 
-[Julian Mendez](https://julianmendez.github.io)
+[Julian Alfredo Mendez](https://julianmendez.github.io)
 
 
 ## License
