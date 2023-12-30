@@ -1,9 +1,9 @@
 # [LAT parent](https://julianmendez.github.io/lat-parent/)
 *LAT parent project*
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Maven Central](https://img.shields.io/maven-central/v/de.tu-dresden.inf.lat/lat-parent.svg?label=Maven%20Central)](https://search.maven.org/artifact/de.tu-dresden.inf.lat/lat-parent)
 [![build](https://github.com/julianmendez/lat-parent/workflows/Java%20CI/badge.svg)](https://github.com/julianmendez/lat-parent/actions)
-[![maven central](https://maven-badges.herokuapp.com/maven-central/de.tu-dresden.inf.lat/lat-parent/badge.svg)](https://search.maven.org/#search|ga|1|g%3A%22de.tu-dresden.inf.lat%22)
-[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 The POM file of this project is used as parent of other project parent POM files.
 
@@ -17,7 +17,7 @@ The POM file of this project is used as parent of other project parent POM files
 <parent>
   <groupId>de.tu-dresden.inf.lat</groupId>
   <artifactId>lat-parent</artifactId>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
   <relativePath></relativePath>
 </parent>
 ```
@@ -65,6 +65,6 @@ This software is distributed under the [Apache License Version 2.0](https://www.
 
 ## Contact
 
-In case you need more information, please contact @julianmendez .
+In case you need more information, please contact [julianmendez](https://github.com/julianmendez).
 
 
