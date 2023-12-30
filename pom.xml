@@ -8,7 +8,7 @@
 	<groupId>de.tu-dresden.inf.lat</groupId>
 	<artifactId>lat-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>0.1.6</version>
+	<version>0.1.7</version>
 
 	<dependencyManagement>
 		<dependencies>
@@ -69,8 +69,8 @@
 					</configuration>
 					<executions>
 						<execution>
-							<id>sources-jar</id>
-							<phase>package</phase>
+							<id>attach-sources</id>
+							<phase>verify</phase>
 							<goals>
 								<goal>jar-no-fork</goal>
 							</goals>
@@ -247,6 +247,8 @@
 					coveralls-maven-plugin
 					[[https://github.com/trautonen/coveralls-maven-plugin]]
 					[[https://repo1.maven.org/maven2/org/eluder/coveralls/coveralls-maven-plugin/]]
+					[[https://github.com/hazendaz/coveralls-maven-plugin]]
+					[[https://repo1.maven.org/maven2/com/github/hazendaz/maven/coveralls-maven-plugin/]]
 					-->
 					<groupId>org.eluder.coveralls</groupId>
 					<artifactId>coveralls-maven-plugin</artifactId>
