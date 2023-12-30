@@ -1,4 +1,4 @@
-# [LAT parent][repository]
+# [LAT parent][home]
 *LAT parent project*
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
@@ -67,12 +67,12 @@ This software is distributed under the [Apache License Version 2.0][license].
 
 In case you need more information, please contact [julianmendez][author].
 
-[repository]: (https://julianmendez.github.io/lat-parent/)
-[author]: (https://julianmendez.github.io)
-[central-repository]: (https://repo1.maven.org/maven2/de/tu-dresden/inf/lat/lat-parent/)
-[license]: (https://www.apache.org/licenses/LICENSE-2.0.txt)
-[maven-central]: (https://search.maven.org/artifact/de.tu-dresden.inf.lat/lat-parent)
+[home]: https://julianmendez.github.io/lat-parent/
+[author]: https://julianmendez.github.io
+[license]: https://www.apache.org/licenses/LICENSE-2.0.txt
+[maven-central]: https://search.maven.org/artifact/de.tu-dresden.inf.lat/lat-parent
 [build-status]: https://github.com/julianmendez/lat-parent/actions
-[sonatype]: (https://oss.sonatype.org/)
+[central-repository]: https://repo1.maven.org/maven2/de/tu-dresden/inf/lat/lat-parent/
+[sonatype]: https://oss.sonatype.org/
 
 
