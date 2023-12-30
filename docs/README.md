@@ -72,6 +72,6 @@ In case you need more information, please contact [julianmendez][author].
 [maven-central]: https://search.maven.org/artifact/de.tu-dresden.inf.lat/lat-parent
 [build-status]: https://github.com/julianmendez/lat-parent/actions
 [central-repository]: https://repo1.maven.org/maven2/de/tu-dresden/inf/lat/lat-parent/
-[sonatype]: https://oss.sonatype.org/
+[sonatype]: https://oss.sonatype.org
 
 
