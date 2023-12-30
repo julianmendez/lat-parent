@@ -1,4 +1,4 @@
-# [LAT parent][home]
+# [LAT parent](https://julianmendez.github.io/lat-parent/)
 *LAT parent project*
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
@@ -67,7 +67,6 @@ This software is distributed under the [Apache License Version 2.0][license].
 
 In case you need more information, please contact [julianmendez][author].
 
-[home]: https://julianmendez.github.io/lat-parent/
 [author]: https://julianmendez.github.io
 [license]: https://www.apache.org/licenses/LICENSE-2.0.txt
 [maven-central]: https://search.maven.org/artifact/de.tu-dresden.inf.lat/lat-parent
