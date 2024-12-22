@@ -1,4 +1,6 @@
 ---
+- - version: v0.1.8
+  - date: '2024-12-22'
 - - version: v0.1.7
   - date: '2023-12-30'
 - - version: v0.1.6
